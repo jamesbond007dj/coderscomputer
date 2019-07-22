@@ -2,10 +2,15 @@
 
 ### STARTING WITH CHOOSING A TEXT EDITOR
 
-[ ] Notepad++
-[ ] TextWrangler
-[ ] BB Edit
-[x] **Visiual Studio Code**
+- [ ] Notepad++
+- [ ] TextWrangler
+- [ ] BB Edit
+- [x] **Visiual Studio Code**
+- [ ] Atom
+- [ ] Brackets 
+- [ ] Sublime Text 
+
+You can more information on 
 
 
 

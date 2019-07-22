@@ -14,7 +14,7 @@
 
 [You can have more information from this link](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636) 
 
-### USING A A TERMINAL STEP BY STEP 
+##### USING A TERMINAL STEP BY STEP 
 
 1. The Command Line
  - Command examples

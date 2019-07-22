@@ -7,7 +7,7 @@
 - [ ] Notepad++
 - [ ] TextWrangler
 - [ ] BB Edit
-- [x] [**Visiual Studio Code**] (https://code.visualstudio.com/download)
+- [x] [Visiual Studio Code] (https://code.visualstudio.com/download)
 - [ ] Atom
 - [ ] Brackets 
 - [ ] Sublime Text 

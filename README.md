@@ -1,3 +1,14 @@
+# THE CODER'S COMPUTER
+
+### STARTING WITH CHOOSING A TEXT EDITOR
+
+[ ] Notepad++
+[ ] TextWrangler
+[ ] BB Edit
+[x] **Visiual Studio Code**
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jamesbond007dj/coderscomputer/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
